@@ -482,9 +482,7 @@ html{
 }
 
 .img-my:hover {
-    /* filter: brightness(89%); */
     opacity: 88%;
-    width: 111%;
 }
 
 .main-ve-may-bay {
@@ -747,7 +745,7 @@ html{
 }
 
 .list-dc-yeu-thich {
-
+   padding-left: 0; 
 }
 
 .text-dc-yeu-thich {
